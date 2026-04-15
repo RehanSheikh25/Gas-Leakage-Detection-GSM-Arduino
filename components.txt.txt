@@ -1,0 +1,5 @@
+Components Used:
+1. Arduino Uno
+2. MQ-135 Gas Sensor Module
+3. SIM800L GSM/GPRS Module
+4. Breadboard & Jumper Wires
