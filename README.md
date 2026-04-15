@@ -25,11 +25,11 @@ This project detects gas leakage using a gas sensor and sends an alert SMS using
 - Easy to install
 
 ## 📷 Circuit Diagram
-(Add your image here after upload)
+![Circuit Diagram](circuit_diagram.jpg)
 
 
 ## 💻 Code
-Code is provided in this repository.
+The Complete Arduinio Code is provided in this repository.
 
 ## 📌 Applications
 - Home safety systems
@@ -37,4 +37,4 @@ Code is provided in this repository.
 - LPG leakage detection
 
 ## 👨‍💻 Author
-Your Name
+Rehan Maksud Sheikh
